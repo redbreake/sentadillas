@@ -1,0 +1,15 @@
+# Ignorar archivos de sesiones
+sessions.csv
+
+# Ignorar directorios de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+
+# Ignorar archivos de sistema/IDE
+.DS_Store
+.vscode/
