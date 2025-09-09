@@ -1,5 +1,3 @@
-# Ignorar archivos de sesiones
-sessions.csv
 
 # Ignorar directorios de caché de Python
 __pycache__/
